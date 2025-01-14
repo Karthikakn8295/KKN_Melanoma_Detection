@@ -30,7 +30,7 @@ Conclusions:
 - Augmentor allows targeted augmentation for underrepresented classes in training dataset. This helps balance the class distribution, improving the model's performance on minority classes.
 - By incorporating Augmentor into the preprocessing pipeline, the diversity and quality of the training dataset has enhanced,thus leading to better performance and robustness of the neural network model.
 
-  Project Done by: Karthika K Namboothiri
+  Project Done by: Karthika K Namboothiri (https://github.com/Karthikakn8295)
 
 [ ]
 
